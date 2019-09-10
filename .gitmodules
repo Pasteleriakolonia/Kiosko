@@ -1,0 +1,4 @@
+[submodule "Pasteleriakolonia/Kiosko"]
+	path = Pasteleriakolonia/Kiosko
+	url = git@github.com:Pasteleriakolonia/Kiosko.git
+	branch = Fact-Final
